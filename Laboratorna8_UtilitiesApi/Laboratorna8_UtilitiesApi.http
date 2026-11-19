@@ -1,0 +1,6 @@
+@Laboratorna8_UtilitiesApi_HostAddress = http://localhost:5186
+
+GET {{Laboratorna8_UtilitiesApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
